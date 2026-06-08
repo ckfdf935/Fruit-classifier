@@ -1,0 +1,16 @@
+pip~=25.1.1
+attrs~=25.4.0
+filelock~=3.20.0
+requests~=2.32.5
+colorama~=0.4.6
+certifi~=2025.11.12
+urllib3~=2.5.0
+idna~=3.11
+charset-normalizer~=3.4.4
+packaging~=25.0
+tqdm~=4.67.1
+torch~=2.9.0
+torchvision~=0.24.0
+matplotlib~=3.10.7
+pillow~=12.0.0
+aiogram~=3.22.0
